@@ -50,5 +50,13 @@ namespace ExemploFundamentos.Models{
             double tangente = Math.Tan(radiano);
             Console.WriteLine($"Seno de {angulo}° = {tangente}");
         }
+
+        public void Result()
+        {
+            
+        }
+    
+    
     }
+
 }

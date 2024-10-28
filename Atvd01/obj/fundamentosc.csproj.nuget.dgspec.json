@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Lucas\\projetos\\fundamentosc\\fundamentosc.csproj": {}
+    "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd01\\fundamentosc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Lucas\\projetos\\fundamentosc\\fundamentosc.csproj": {
+    "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd01\\fundamentosc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Lucas\\projetos\\fundamentosc\\fundamentosc.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd01\\fundamentosc.csproj",
         "projectName": "fundamentosc",
-        "projectPath": "C:\\Users\\Pedro Lucas\\projetos\\fundamentosc\\fundamentosc.csproj",
+        "projectPath": "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd01\\fundamentosc.csproj",
         "packagesPath": "C:\\Users\\Pedro Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Lucas\\projetos\\fundamentosc\\obj\\",
+        "outputPath": "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

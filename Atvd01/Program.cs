@@ -5,23 +5,61 @@ Calculadora calc = new Calculadora();
 Console.WriteLine("Digite dois números: ");
 int x = Convert.ToInt32(Console.ReadLine());
 int y = Convert.ToInt32(Console.ReadLine());
-int escolha = Convert.ToInt32(Console.ReadLine());
-while(escolha != 0)
+int operacoes;
+string continuar = "s";
+while(continuar == "s")
 {
-    Console.WriteLine("Digite qual é o ")
-    switch
+    Console.WriteLine("Digite o que você deseja fazer:");
+    operacoes = Convert.ToInt32(Console.ReadLine());
+
+    
+    switch(operacoes)
     {
         case 1:
         calc.Somar(x,y);
         break;
+
         case 2:
         calc.Subtrair(x,y);
         break;
+
         case 3:
         calc.Multiplicar(x,y);
-    }
-}
+        break;
 
+        case 4:
+        calc.Dividir(x,y);
+        break;
+
+        default:
+        Console.WriteLine("Você escolheu a opção errada");
+        break;
+    }
+    Console.WriteLine($"Deseja continuar com os seguintes números: {x} e {y}?");
+    string EscolhaNumeros = Console.ReadLine();
+    switch(EscolhaNumeros)
+    {
+        case "n":
+        Console.WriteLine("Escolha dois números:");
+        x = Convert.ToInt32(Console.ReadLine());
+        y = Convert.ToInt32(Console.ReadLine());
+        break;
+
+        case "s":
+        break;
+
+        default:
+        Console.WriteLine($"Você escolheu {EscolhaNumeros}, porém não existe dentre as opções."+ "\n" +"Escolha novamente:");
+        EscolhaNumeros = Console.ReadLine();
+        break;
+    }
+    Console.WriteLine("Você deseja continuar?" + "\n" + " s ou n.");
+    continuar = Console.ReadLine();
+
+
+    
+}
+Console.WriteLine("Você finalizou a calculadora.");
     
 
 
@@ -47,49 +85,6 @@ while(escolha != 0)
 
 
 
-/*Console.WriteLine("Digite uma letra, caro usuário: ");
-string letra = Console.ReadLine();
-
-switch(letra) {
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-    default:
-        Console.WriteLine("Não é uma Vogal");
-        break;
-}
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-/*int quantidadeEmEstoque = 10;
-Console.WriteLine($"Digite a quantidade que deseja comprar: ");
-int quantidadeCompra = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine($"É possível realizar a compra? {quantidadeEmEstoque >= quantidadeCompra}");
-
-if (quantidadeEmEstoque >= quantidadeCompra)
-{
-    Console.WriteLine("Venda realizada!!");
-}
-else
-{
-    Console.WriteLine($"Desculpe. Não temos a quantidade ({quantidadeCompra}) desejada.");
-}
-*/
 
 
 
