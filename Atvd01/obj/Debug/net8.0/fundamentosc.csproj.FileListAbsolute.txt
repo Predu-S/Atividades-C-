@@ -1,0 +1,14 @@
+C:\Users\Pedro Lucas\projetos\fundamentosc\bin\Debug\net8.0\fundamentosc.exe
+C:\Users\Pedro Lucas\projetos\fundamentosc\bin\Debug\net8.0\fundamentosc.deps.json
+C:\Users\Pedro Lucas\projetos\fundamentosc\bin\Debug\net8.0\fundamentosc.runtimeconfig.json
+C:\Users\Pedro Lucas\projetos\fundamentosc\bin\Debug\net8.0\fundamentosc.dll
+C:\Users\Pedro Lucas\projetos\fundamentosc\bin\Debug\net8.0\fundamentosc.pdb
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.AssemblyInfoInputs.cache
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.AssemblyInfo.cs
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.dll
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\refint\fundamentosc.dll
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.pdb
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\fundamentosc.genruntimeconfig.cache
+C:\Users\Pedro Lucas\projetos\fundamentosc\obj\Debug\net8.0\ref\fundamentosc.dll
