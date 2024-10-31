@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj": {}
+    "c:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj": {
+    "c:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj",
+        "projectUniqueName": "c:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj",
         "projectName": "Atvd02",
-        "projectPath": "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj",
+        "projectPath": "c:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\Atvd02.csproj",
         "packagesPath": "C:\\Users\\Pedro Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\obj\\",
+        "outputPath": "c:\\Users\\Pedro Lucas\\projetos\\Atividades-C-\\Atvd02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
