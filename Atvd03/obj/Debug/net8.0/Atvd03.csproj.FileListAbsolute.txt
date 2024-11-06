@@ -1,0 +1,15 @@
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\bin\Debug\net8.0\Atvd03.exe
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\bin\Debug\net8.0\Atvd03.deps.json
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\bin\Debug\net8.0\Atvd03.runtimeconfig.json
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\bin\Debug\net8.0\Atvd03.dll
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\bin\Debug\net8.0\Atvd03.pdb
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.AssemblyInfoInputs.cache
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.AssemblyInfo.cs
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.sourcelink.json
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.dll
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\refint\Atvd03.dll
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.pdb
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\Atvd03.genruntimeconfig.cache
+C:\Users\Pedro Lucas\projetos\Atividades-C-\Atvd03\obj\Debug\net8.0\ref\Atvd03.dll
